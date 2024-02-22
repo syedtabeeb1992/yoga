@@ -24,7 +24,7 @@ body {
     line-height: 1.8;
     overflow-x: hidden;
     background-color: #fff;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Nunito", sans-serif;
 }
 
 body,
@@ -414,7 +414,7 @@ header .border-img {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    font-family: 'Old Standard TT', serif;
+    font-family: "Nunito", sans-serif;
 }
 
 .banner-another {
@@ -497,7 +497,7 @@ header .border-img {
     background-color: transparent;
     border-color: #ffffff;
     border: 2px solid #ffffff;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Nunito", sans-serif;
 }
 
 .banner-home .btn-success:hover {
@@ -529,13 +529,13 @@ header .border-img {
 
 .about .heading h2 {
     font-size: 56px;
-    font-family: 'Old Standard TT', serif;
+    font-family: "Nunito", sans-serif;
 }
 
 .about .heading h3 {
     color: #f26522;
     font-size: 30px;
-    font-family: 'Old Standard TT', serif;
+    font-family: "Nunito", sans-serif;
 }
 
 .about .heading img {
@@ -551,7 +551,7 @@ header .border-img {
     text-align: center;
     border: 1px solid #d4d4d4;
     border-radius: 50%;
-    font-family: 'Old Standard TT', serif;
+    font-family: "Nunito", sans-serif;
 }
 
 .about .circle .gradient {
@@ -622,7 +622,7 @@ header .border-img {
     font-size: 14px;
     padding: 0 40px;
     margin-bottom: 0;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Nunito", sans-serif;
 }
 
 .about .circle__content p a {
@@ -638,7 +638,7 @@ header .border-img {
     height: auto;
     color: #ffffff;
     background: #000;
-    font-family: 'Old Standard TT', serif;
+    font-family: "Nunito", sans-serif;
 }
 
 .section-4 figure img {
@@ -704,7 +704,7 @@ header .border-img {
     font-weight: 500;
     text-transform: uppercase;
     border: 2px solid;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Nunito", sans-serif;
 }
 
 .section-4 .btn-primary:not(:disabled):not(.disabled).active,
@@ -736,7 +736,7 @@ header .border-img {
     width: 100%;
     height: 690px;
     background: #f2f2f2;
-    font-family: 'Old Standard TT', serif;
+    font-family: "Nunito", sans-serif;
 }
 
 .services figure img {
